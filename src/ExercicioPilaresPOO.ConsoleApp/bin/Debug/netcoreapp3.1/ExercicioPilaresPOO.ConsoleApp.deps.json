@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioPilaresPOO.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ExercicioPilaresPOO.Models": "1.0.0"
+        },
+        "runtime": {
+          "ExercicioPilaresPOO.ConsoleApp.dll": {}
+        }
+      },
+      "ExercicioPilaresPOO.Models/1.0.0": {
+        "runtime": {
+          "ExercicioPilaresPOO.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioPilaresPOO.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExercicioPilaresPOO.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

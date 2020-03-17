@@ -1,0 +1,14 @@
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.csprojAssemblyReference.cache
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.AssemblyInfoInputs.cache
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.AssemblyInfo.cs
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.exe
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.deps.json
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.runtimeconfig.json
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.runtimeconfig.dev.json
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.dll
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.pdb
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.Models.dll
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioPilaresPOO.Models.pdb
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.csproj.CopyComplete
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.dll
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioPilaresPOO.ConsoleApp.pdb

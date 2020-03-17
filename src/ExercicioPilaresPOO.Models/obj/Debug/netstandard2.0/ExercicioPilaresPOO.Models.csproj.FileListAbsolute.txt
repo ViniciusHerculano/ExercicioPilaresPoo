@@ -1,0 +1,8 @@
+c:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\bin\Debug\netstandard2.0\ExercicioPilaresPOO.Models.deps.json
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\bin\Debug\netstandard2.0\ExercicioPilaresPOO.Models.dll
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\bin\Debug\netstandard2.0\ExercicioPilaresPOO.Models.pdb
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\obj\Debug\netstandard2.0\ExercicioPilaresPOO.Models.csprojAssemblyReference.cache
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\obj\Debug\netstandard2.0\ExercicioPilaresPOO.Models.AssemblyInfoInputs.cache
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\obj\Debug\netstandard2.0\ExercicioPilaresPOO.Models.AssemblyInfo.cs
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\obj\Debug\netstandard2.0\ExercicioPilaresPOO.Models.dll
+C:\Projetos\ExercicioObjetos\src\ExercicioPilaresPOO.Models\obj\Debug\netstandard2.0\ExercicioPilaresPOO.Models.pdb
